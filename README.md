@@ -16,17 +16,18 @@ Alle Notebooks liegen in diesem Repository. Im Workshop holst du sie mit einem K
 
 > Link folgt (nbgitpuller)
 
-Danach findest du im Dateibrowser links einen Ordner `jupyterhub-nrw-tag` mit allen Dateien.
+Danach öffnet sich `00_start.ipynb` mit einer Übersicht aller Materialien. Im Dateibrowser links liegt alles im Ordner `jupyterhub-nrw-tag`.
 
 ## Welches Notebook zuerst?
 
 | Datei | Inhalt |
 |---|---|
-| `00_erste_schritte.ipynb` | Zellen ausführen, Markdown und Code, Kernel, Dateibrowser |
-| `01_daten.ipynb` | Einen offenen Datensatz einlesen, filtern und plotten |
-| `zugaben/` | Für Schnelle: ein R-Notebook und eine kleine Textanalyse |
+| `00_start.ipynb` | Übersicht mit Links zu allen Notebooks |
+| `01_erste_schritte.ipynb` | Zellen ausführen, Markdown und Code, Kernel, Dateibrowser |
+| `02_daten.ipynb` | Einen offenen Datensatz einlesen, filtern und plotten |
+| `zugaben/` | Für Schnelle: Statistik mit R, eine kleine Textanalyse, eine Kurvendiskussion mit SymPy |
 
-Beginne mit `00_erste_schritte.ipynb`. Die Notebooks sind so gebaut, dass du den Code nicht selbst schreiben musst. Du führst ihn aus, änderst einzelne Werte und schaust, was passiert.
+Beginne mit `01_erste_schritte.ipynb`. Die Notebooks sind so gebaut, dass du den Code nicht selbst schreiben musst. Du führst ihn aus, änderst einzelne Werte und schaust, was passiert.
 
 ## Roter Faden: Reproduzierbarkeit
 
