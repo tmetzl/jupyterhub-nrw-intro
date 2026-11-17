@@ -7,11 +7,11 @@ Leitfrage des Publikums: "Was kann ich damit meinen Forschenden und Lehrenden an
 
 | Zeit | Block | Inhalt | Material |
 |---|---|---|---|
-| 0–10 | Begrüßung | Vorstellungsrunde, ein Satz zum eigenen Anwendungsfall | |
-| 10–20 | Teaser | Live-Demo: Login, Notebook öffnen, Plot, Slider. Zeigt, wo die Reise hingeht | `02_daten.ipynb` |
-| 20–35 | Login | Token eingeben, Login über eigenen IDP, Server starten. Erst vorführen, dann alle | Login-Handzettel |
+| 0–10 | Begrüßung | Drei Folien zum Abholen (Notebook, Hub, Ablauf), Vorstellungsrunde mit einem Satz zum eigenen Anwendungsfall | `folien/index.html` |
+| 10–15 | Teaser | Nur zeigen, nicht erklären: Link klicken, Startseite, Daten-Notebook öffnen, "Restart & Run All", am Slider ziehen. Ein Notebook, eine Botschaft: kein Install, ein Link. Zugaben noch nicht erwähnen | `02_daten.ipynb` |
+| 15–35 | Login | Token eingeben, Login über eigenen IDP, Server starten. Erst vorführen, dann alle. Fünf Minuten Puffer sind hier eingeplant | Login-Folie in `folien/index.html`, Login-Handzettel |
 | 35–50 | Erste Schritte | Gemeinsam durch das Notebook: Zellen, Markdown, Kernel, Dateibrowser, Reihenfolge-Falle | `01_erste_schritte.ipynb` |
-| 50–70 | Daten | Datensatz einlesen, filtern, plotten, Slider. Wer fertig ist, nimmt sich eine Zugabe | `02_daten.ipynb`, `zugaben/` (R, Textanalyse, SymPy) |
+| 50–70 | Daten | Nicht vorführen, sondern anleiten: Alle machen "Restart & Run All" und sehen das ganze Notebook. Dann der Auftrag: nach oben gehen und Werte ändern (Land, Jahr, Slider). Ich gehe herum und helfe. Erst jetzt die Zugaben für Schnelle nennen | `02_daten.ipynb`, `zugaben/` (R, Textanalyse, SymPy) |
 | 70–90 | Ausblick | nbgitpuller als "so geht es heute", e2xgrader-Exchange als Zukunft (Screenshots). Gespräch: Was braucht ihr? | Folien |
 
 ## Roter Faden
